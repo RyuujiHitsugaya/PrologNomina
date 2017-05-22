@@ -1,4 +1,4 @@
-public classPruebaIterador{
+public class PruebaIterador{
   public static void main(String[] args){
     Espacio[] space=new Espacio[10];
     for(int i=0;i<space.length();i++)
